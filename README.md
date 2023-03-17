@@ -5,3 +5,5 @@ Utilizando a API fornecida pela OpenAi, criadora do ChatGPT, a ideia deste proje
 - Vite
 - ReactJs
 - Typescript
+- Biblioteca de API da OpenAi
+- Biblioteca do ChatBot da Open Ai
